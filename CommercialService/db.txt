@@ -1,0 +1,8 @@
+2711,2000,0.2,Naim Dali
+8929,3000,0.3,Hedi Khemiri
+6101,8000,0.8,Naim Dali
+8127,1000,0.1,Hedi Khemiri
+4397,3000,0.3,Naim Dali
+2422,5000,0.5,Hedi Khemiri
+4076,7000,0.7,Naim Dali
+2200,2000,0.2,Hedi Khemiri
