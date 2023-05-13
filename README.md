@@ -4,6 +4,8 @@
 <br/>
 👨🏽‍💻 Architecture <br/>
 ![342350112_1286402771968547_5225358028237134261_n](https://github.com/NaimDali/Microservices-Architecture/assets/57017057/9d96251f-7481-4bfd-b5ef-8d1e53036ef4)
+![342350112_1286402771968547_5225358028237134261_n](https://github.com/NaimDali/Microservices-Architecture/assets/57017057/71416b5f-a588-4acf-9090-cef9f4e41a39)
+
 <br/>
 🎯 About the project
 This project is an implementation of a microservices architecture using Node.js and Express framework. The architecture includes four services communicating with each other through HTTP requests: <br/>
