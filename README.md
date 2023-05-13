@@ -1,4 +1,11 @@
 
+                                               Microservices architecture 
+
+<br/>
+👨🏽‍💻 Architecture 
+![342350112_1286402771968547_5225358028237134261_n](https://github.com/NaimDali/Microservices-Architecture/assets/57017057/1f4b5dde-0ccb-41a8-8856-191c4fd8a524)
+<br/>
+🎯 About the project
 This project is an implementation of a microservices architecture using Node.js and Express framework. The architecture includes four services communicating with each other through HTTP requests: <br/>
 • 8000:	The first service is an Orchestrator service that listens on port 8000 and handles incoming HTTP requests directly from the user. <br/>
 • 8001:	The second service is a Commercial Service that receives a JSON object with properties such as id, somme, score and nom. It uses an OCR service to extract information from PDF files. <br/>
