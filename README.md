@@ -14,8 +14,3 @@ This project is an implementation of a microservices architecture using Node.js 
 •	8002: The third service is a Risk Management Service that receives the JSON object from the Commercial Service and checks if the final score is greater or equal than 0.5. This will decide if we keep with the user’s request or refuse it.<br/>
  •8003: 	The fourth service is a Credit Service that receives the JSON object from the Risk Management Service and logs the message "CreditService done".<br/>
 
-
-🤖 Notes <br/>
-To separate and store user information effectively, we implement a solution where text information such as names, surnames, and other details are stored in a database (DB), while documents such as bank documents are stored in a file system.<br/>
-Creating a Dedicated File System for Factures where saving user documents separately.<br/>
-Factures are the most important documents on our system. Since they depend on both the user and the system, we choose to save them separately in a dedicated file system. This separation can facilitate easy access to the factures for us.<br/>
