@@ -1,7 +1,6 @@
 
                                                Microservices architecture 
 
-<br/>
 🎯 About the project <br/>
 This project is an implementation of a microservices architecture using Node.js and Express framework. The architecture includes four services communicating with each other through HTTP requests: <br/>
 • 8000:	The first service is an Orchestrator service that listens on port 8000 and handles incoming HTTP requests directly from the user. <br/>
